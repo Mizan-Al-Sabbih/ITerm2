@@ -1,0 +1,24 @@
+{
+  "name": "ITerm2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "xterm": "^4.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mizan-Al-Sabbih/ITerm2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mizan-Al-Sabbih/ITerm2/issues"
+  },
+  "homepage": "https://github.com/Mizan-Al-Sabbih/ITerm2#readme"
+}
